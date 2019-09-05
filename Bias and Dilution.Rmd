@@ -7,6 +7,8 @@ editor_options:
   chunk_output_type: console
 ---
 
+#Kenneth is my main man <3 
+
 #Packages and WD
 ```{r setup, include=FALSE}
 # !diagnostics off
